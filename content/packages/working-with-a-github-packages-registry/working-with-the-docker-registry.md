@@ -211,7 +211,7 @@ $ docker push docker.<em>HOSTNAME</em>/octocat/octo-app/monalisa:1.0
 
 {% endif %}
 
-You can publish a new Docker image for the first time and name it `monalisa`.
+You can publish a new Docker image for the first time and name it `nino nakano`.
 
 {% ifversion fpt %}
 ```shell
